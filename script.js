@@ -1,6 +1,6 @@
 // Array of 50 users
 const users = [
-    { phone: '0750', shortcode: 'es2324', password: '0750', fullName: 'ahmad', dob: '1990-01-01', country: 'USA', wordTeacher: 'slav chawani', money: '£11.56' },
+    { phone: '0750', shortcode: 'es2324', password: '0750', fullName: 'ahmad', dob: '1990-01-01', country: 'USA', wordTeacher: 'slav chawani', money: '£21.34' },
     { phone: '1234567891', shortcode: 'abc124', password: 'password', fullName: 'Jane Doe', dob: '1992-02-02', country: 'Canada', wordTeacher: 'Michael Johnson', money: '$4000' },
     { phone: '1234567892', shortcode: 'abc125', password: 'password', fullName: 'James Smith', dob: '1988-03-03', country: 'UK', wordTeacher: 'Sarah Williams', money: '$3500' },
     { phone: '1234567893', shortcode: 'abc126', password: 'password', fullName: 'Emily Brown', dob: '1985-04-04', country: 'Australia', wordTeacher: 'David Clark', money: '$5000' },
